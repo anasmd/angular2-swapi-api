@@ -1,3 +1,12 @@
-<h1>
-  {{title}}
-</h1>
+<table class="table table-striped">
+  <tr>
+    <td>Name</td>
+    <td>Height</td>
+    <td>Gender</td>
+  </tr>
+  <tr *ngFor="let res of results">
+   <td>{{res.name}}</td>
+   <td>{{res.height}}</td>
+   <td>{{res.gender}}</td>
+  </tr>
+</table>
