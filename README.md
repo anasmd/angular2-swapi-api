@@ -5,13 +5,14 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 ## Local Deployment
 git clone 
 
-cd <project name>>
+cd angular2-swapi-api
 
 # local dependencies
 npm install
 
 #Dev server up
-ng serve
+
+ng serve, navigate to Navigate to `http://localhost:4200/.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
