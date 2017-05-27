@@ -4,8 +4,13 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 ## Local Deployment
 git clone 
+
 cd <Project>
+
+# local dependencies
 npm install
+
+#Dev server up
 ng serve
 
 ## Development server
