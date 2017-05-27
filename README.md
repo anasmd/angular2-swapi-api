@@ -5,7 +5,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 ## Local Deployment
 git clone 
 
-cd <Project>
+cd <project name>>
 
 # local dependencies
 npm install
